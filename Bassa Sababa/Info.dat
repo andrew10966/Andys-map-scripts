@@ -1,0 +1,47 @@
+{
+  "_version" : "2.0.0",
+  "_songName" : "Bassa Sababa",
+  "_songSubName" : "",
+  "_songAuthorName" : "Netta",
+  "_levelAuthorName" : "Andy",
+  "_beatsPerMinute" : 124,
+  "_previewStartTime" : 61.8,
+  "_previewDuration" : 11.5,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "cover.png",
+  "_songFilename" : "song.ogg",
+  "_environmentName" : "BigMirrorEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.8.516"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 18,
+          "_noteJumpStartBeatOffset" : 0,
+          "_customData" : {
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_requirements" : [
+              "Noodle Extensions"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
